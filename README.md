@@ -15,3 +15,6 @@ This repository contains the specifications.
 
 
 Lint and fix tool：[FECS](http://fecs.baidu.com/)
+
+## reference
+- [web 前端代码规范](https://segmentfault.com/a/1190000012315970)
